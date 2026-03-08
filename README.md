@@ -4,4 +4,4 @@
 A Diamond Star project
 
 ## How to Run
-python main.py
+python diamondStar.py
