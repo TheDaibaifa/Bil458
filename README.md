@@ -1,10 +1,7 @@
 # Bil458 Homework 1
 
 ## Description
-This project implements ...
-
-## Requirements
-Python 3.10
+A Diamond Star project
 
 ## How to Run
 python main.py
