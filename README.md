@@ -1,6 +1,7 @@
-# Bil458
-Diamond Star Pattern with Python Çağan Kırmızı Bil-458 Homework-1
+# Bil458 Homework 1
 
-To Execute: 
+## Description
+A Diamond Star project
 
-python diamondStar.py
+## How to Run
+python main.py
